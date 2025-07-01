@@ -135,7 +135,7 @@ Charts were created in Excel using consistent styling, branded coloring, trendli
 - Daily Forecast: Line chart with trendline
 - Predictive Model: Actual vs Predicted Purchase
 
-![Charts Summary](images/charts_summary_statistical_analysis_excel_vba_project.png)
+![Charts Summary](charts_summary_statistical_analysis_excel_vba_project.png)
 
 ---
 
